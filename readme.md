@@ -44,4 +44,4 @@ This project serves as the final submission for the "Exploratory Data Analysis w
 
 ### `dashboard/dashboard.py`
 1. Download the project.
-2. Install Streamlit with command pip install streamlit, then type command in terminal streamlit run dashboard.py
+2. Install Streamlit with command pip install streamlit, then type command in terminal streamlit run dashboard.py or you can access the streamlit website using the link in the url.txt
